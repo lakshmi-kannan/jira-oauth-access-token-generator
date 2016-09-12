@@ -1,0 +1,4 @@
+pyjwt>=1.0.0
+cryptography
+oauthlib
+requests-oauthlib
